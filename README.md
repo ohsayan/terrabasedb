@@ -29,7 +29,7 @@ You can learn more about installation [here](https://terrabasedb.github.io/docs/
 * **Insanely fast**: Scale to millions of queries per second per node
 * **Key/value store**: `GET` , `SET` , `UPDATE` and [all that stuff](https://terrabasedb.github.io/docs/List-Of-Actions)
 * **Snapshots**: Automated (and tunable) snapshots for stress-free backups
-* **Secure**: Secure connections are built into TDB with SSL/TLS
+* **Secure**: Secure connections are built into TDB with SSL/TLS (with OpenSSL)
 * **Multithreaded**: Designed to exploit all CPU cores
 * **Resource friendly**: The database server doesn't need more than 1MB to run
 * **Convenient**: Without the setup hassle and system-specific dependencies
